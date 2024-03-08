@@ -1,0 +1,105 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{wajuihian2021gender}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6f434625e6a33e91d915c5532bac43ef}{%
+           family={Wajuihian},
+           familyi={W\bibinitperiod},
+           given={Samuel\bibnamedelima Otabor},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce548cfd94d10bcf8083618cf9e315f9}{%
+           family={Mashige},
+           familyi={M\bibinitperiod},
+           given={Khathutshelo\bibnamedelima Percy},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{935d1553a7223d881ca0a68724af5c51}
+      \strng{fullhash}{935d1553a7223d881ca0a68724af5c51}
+      \strng{bibnamehash}{935d1553a7223d881ca0a68724af5c51}
+      \strng{authorbibnamehash}{935d1553a7223d881ca0a68724af5c51}
+      \strng{authornamehash}{935d1553a7223d881ca0a68724af5c51}
+      \strng{authorfullhash}{935d1553a7223d881ca0a68724af5c51}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of optometry}
+      \field{number}{4}
+      \field{title}{Gender and age distribution of refractive errors in an optometric clinical population}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{315\bibrangedash 327}
+      \range{pages}{13}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{wajuihian2021gender}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6f434625e6a33e91d915c5532bac43ef}{%
+           family={Wajuihian},
+           familyi={W\bibinitperiod},
+           given={Samuel\bibnamedelima Otabor},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce548cfd94d10bcf8083618cf9e315f9}{%
+           family={Mashige},
+           familyi={M\bibinitperiod},
+           given={Khathutshelo\bibnamedelima Percy},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{935d1553a7223d881ca0a68724af5c51}
+      \strng{fullhash}{935d1553a7223d881ca0a68724af5c51}
+      \strng{bibnamehash}{935d1553a7223d881ca0a68724af5c51}
+      \strng{authorbibnamehash}{935d1553a7223d881ca0a68724af5c51}
+      \strng{authornamehash}{935d1553a7223d881ca0a68724af5c51}
+      \strng{authorfullhash}{935d1553a7223d881ca0a68724af5c51}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of optometry}
+      \field{number}{4}
+      \field{title}{Gender and age distribution of refractive errors in an optometric clinical population}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{315\bibrangedash 327}
+      \range{pages}{13}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

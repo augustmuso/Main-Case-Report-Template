@@ -1,0 +1,30 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Wajuihian%
+\ \BBA {} Mashige%
+}{%
+Wajuihian%
+\ \BBA {} Mashige%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+wajuihian2021gender}
+\APACinsertmetastar {%
+wajuihian2021gender}%
+\begin{APACrefauthors}%
+Wajuihian, S\BPBI O.%
+\BCBT {}\ \BBA {} Mashige, K\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gender and age distribution of refractive errors in an
+  optometric clinical population} {Gender and age distribution of refractive
+  errors in an optometric clinical population}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of optometry}{14}{4}{315--327}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
