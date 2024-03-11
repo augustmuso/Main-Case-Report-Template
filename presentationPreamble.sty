@@ -1,6 +1,12 @@
 \usepackage[utf8]{inputenc}
 \usepackage{blindtext}
 \usepackage{multicol}
+\usepackage{booktabs} % For better-looking tables
+\usepackage{caption} % For table captions
+\usepackage{siunitx} % For alignment of numbers
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
 
 
 %========================================================================
@@ -70,7 +76,7 @@
 % Embed logo in background
 \setbeamertemplate{background}{
     \begin{tikzpicture}[remember picture,overlay]
-        \node[opacity=0.015] at (current page.center) {\includegraphics[width=8cm]{images/optocase_logo.png}};
+        \node[opacity=0.015] at (current page.center) {\includegraphics[width=8cm]{Figures/optocase_logo.png}};
     \end{tikzpicture}
 }
 
@@ -107,8 +113,3 @@
 \input{acro} % include the acronyms from acro.tex
 \renewcommand*{\glstextformat}[1]{\textbf{#1}} % Redefine appearance of acronyms as keywords
 \makeglossaries % Generate the glossary
-
-
-\usepackage{booktabs} % For better-looking tables
-\usepackage{caption} % For table captions
-\usepackage{siunitx} % For alignment of numbers

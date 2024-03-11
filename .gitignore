@@ -51,6 +51,26 @@ coverage.xml
 *.mo
 *.pot
 
+# Latex Complie stuff:
+*.aux
+*.bbl
+*.bcf
+*.fdb_latexmk
+*.fls
+*.glo
+*.ist
+*.out
+*.pdf
+*.snm
+*.xml
+*.nav
+*.synctex.gz
+*.gz
+*.toc
+*.blg
+*.synctex(busy)
+
+
 # Django stuff:
 *.log
 local_settings.py
